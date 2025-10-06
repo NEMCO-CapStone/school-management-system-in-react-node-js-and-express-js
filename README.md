@@ -37,6 +37,9 @@ In the root directory of the backend project using
 npm install
 ```
 
+```
+npm install express
+```
 #### 3. Run the backend-server
 
 In the root directory of the backend using
